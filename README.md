@@ -10,8 +10,5 @@
 - DOM manipulation and state management
 - Designing a modern UI for time-based apps
 
-## Demo
-(Live GitHub Pages link, if published)
-
 ## Source Code
-[Link to repo]
+https://github.com/bhargav31767/PRODIGY_WD_02.git
